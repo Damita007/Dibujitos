@@ -6,24 +6,24 @@
 
 1. Se crea el repositorio llamado Dibujitos
 
-¡[imagen](IMAGEN/Dibujitos1.png)
+![imagen](IMAGEN/Dibujitos1.png)
 
 2. Clone el repositorio en mi computadora a través de Gitkraken
 
-¡[imagen](IMAGEN/Dibujitos2.png)
+![imagen](IMAGEN/Dibujitos2.png)
 
 Una vez clonado el repositorio así queda:
 
-¡[imagen](IMAGEN/Dibujitos3.png)
+![imagen](IMAGEN/Dibujitos3.png)
 
 
 3. Agrega un archivo, en este caso dos existentes y un README
 
-¡[imagen](IMAGEN/Dibujitos4.png)
+![imagen](IMAGEN/Dibujitos4.png)
 
 Así queda una vez que se escogen los archvios:
 
-¡[imagen](IMAGEN/Dibujitos5.png)
+![imagen](IMAGEN/Dibujitos5.png)
 
 4. Has tu primer commit y push 
 
