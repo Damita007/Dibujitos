@@ -44,12 +44,20 @@ Push - actualizar y que los cambios aparezcan en el repositorio remoto.
 
 ## 5. Crea una rama en tu repo local 
 
+![imagen](IMAGEN/Dibujitos9.png)
 
-
+![imagen](IMAGEN/Dibujitos10.png)
 
 ## 6. Sube esa rama a tu repo remoto. 
 
+Main es la rama principal de mi repositorio local
 
+** Master ** es una rama que esta en el repositorio remoto como Damita007. Aquí es donde se ven las carpetas y archivos de imágenes.
+
+
+![imagen](IMAGEN/Dibujitos11.png)
+
+![imagen](IMAGEN/Dibujitos12.png)
 
 
 
